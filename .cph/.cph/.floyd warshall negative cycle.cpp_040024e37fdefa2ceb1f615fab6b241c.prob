@@ -1,0 +1,1 @@
+{"name":"Local: floyd warshall negative cycle","url":"d:\\CSE\\2-2\\Algo\\.cph\\floyd warshall negative cycle.cpp","tests":[{"id":1693382627359,"input":"4 5\n1 2 -3\n2 3 2\n3 4 -5\n4 1 1\n1 3 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSE\\2-2\\Algo\\.cph\\floyd warshall negative cycle.cpp","group":"local","local":true}
